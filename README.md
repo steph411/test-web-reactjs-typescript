@@ -28,6 +28,6 @@ React Js + TypeScript
 
 > Date limite de dépot du travail
 
-Jeudi 2 Fevrier 2023 à 18h00
+Lundi 30 Janvier 2023 à 18h00
 
 Enjoy your game !
